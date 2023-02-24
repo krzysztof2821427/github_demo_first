@@ -1,7 +1,8 @@
-first 
+twelve
 secound
 third
-fifth
+eleven
 sixth
 eighth
 ninth
+ten
