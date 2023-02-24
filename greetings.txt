@@ -1,8 +1,9 @@
 twelve
-secound
-third
-eleven
+secoun
+3
+gi2
 sixth
 eighth
-ninth
-ten
+4
+5
+6
