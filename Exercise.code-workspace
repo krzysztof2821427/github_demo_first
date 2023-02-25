@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "../Exercise"
+		},
+		{
+			"path": "../../C/projects - Udemy C programming for beginners/C18 Final Project"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"stdlib.h": "c"
+		}
+	}
+}
